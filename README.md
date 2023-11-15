@@ -14,7 +14,7 @@
 
 ### Network
 
-![image-20231115073013747](C:\Users\china\AppData\Roaming\Typora\typora-user-images\image-20231115073013747.png)
+![image-20231115073013747](https://github.com/weiyuanhong623/TlED-Net/blob/master/images/TlED-Net.png?raw=true)
 
 
 
